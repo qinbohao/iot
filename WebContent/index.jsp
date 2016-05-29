@@ -74,7 +74,7 @@ a{text-decoration:none;}
 			<dt style="float: left">
 				<img src="images/index/top/top.png"></img>
 			</dt>
-			<dt class="toptext" onclick="login.jsp">无损检测设备管理系统</dt><br/>
+			<dt class="toptext" onclick="login.jsp">无损检测设备管理系统</dt>
 		</dl>
 	</div>
 	<div class="container">
