@@ -11,12 +11,6 @@ public void jspInit(){
 	Server camera=new Server(8088);
 	camera.start();
 	System.out.println("CreatCamera!");	
-/*	try{
-		Mysql.Adddata("client_part", "clientID,partnum,partstate" , "'80888888','2016-05-23 17:11:04','0'");
-	}
-	catch(Exception e){
-		e.printStackTrace();
-	}*/
 
 }
 %>
